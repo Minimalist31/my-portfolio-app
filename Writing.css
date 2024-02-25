@@ -1,0 +1,13 @@
+.main-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: plum;
+  font-size: 50px;
+}
+.welcome {
+  font-size: 25px;
+  color: bisque;
+}

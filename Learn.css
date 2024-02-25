@@ -1,0 +1,33 @@
+.skills {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  gap: 20px;
+  text-align: left;
+}
+.skill-title {
+  color: plum;
+  font-size: 40px;
+}
+
+.skills {
+  color: white;
+  font-size: 25px;
+  gap: auto;
+}
+.level {
+  display: flex;
+  width: 250px;
+  height: 25px;
+  background-color: cornflowerblue;
+  border: 5px;
+  border-color: aliceblue;
+  border-radius: 3px;
+  align-items: center;
+  justify-content: center;
+}
+.school-details {
+  font-size: 20px;
+  font-family: "cursive", "Monotype Corsiva", "Lucida Handwriting", cursive;
+  color: bisque;
+}

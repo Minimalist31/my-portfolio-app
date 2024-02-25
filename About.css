@@ -1,0 +1,21 @@
+.about-box {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  gap: 20px;
+  text-align: left;
+}
+
+.about-title {
+  font-size: 64px;
+  color: white;
+}
+
+.about-subtitle {
+  font-size: 22px;
+  color: white;
+}
+.learnmore {
+  color: orange;
+  text-decoration: none;
+}
